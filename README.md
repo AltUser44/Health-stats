@@ -23,8 +23,6 @@ https://health-stats-psi.vercel.app/
 
 ![Image](https://github.com/user-attachments/assets/e7261e9a-0d69-46ed-b8a1-4e406c57a161)
 
-![Image](https://github.com/user-attachments/assets/d659392a-822b-4b70-b120-4335b812bdd0)
-
 ![Image](https://github.com/user-attachments/assets/9c854e5f-9dca-4329-be00-c41aeb3dbc16)
 
 **🏗️ Built With**
